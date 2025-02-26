@@ -15,8 +15,8 @@ This repository explores:
 ## Files in this Repository
 
 1. `Random_pivot Quick sort.ipynb` - Implementation of quicksort with random pivot selection
-2. `Non_random_pivot_Quick_sort.ipynb` - Implementation of quicksort with various deterministic pivot selection strategies
-3. `Quicksort_benchmarking.ipynb` - Comprehensive benchmarking for quicksort with visualizations
+2. `Non_random_pivot_Quick sort.ipynb` - Implementation of quicksort with various deterministic pivot selection strategies
+3. `benchmarking_for_non_random.ipynb` - Comprehensive benchmarking for non random quicksort with visualizations
 
 ## Implementations
 
